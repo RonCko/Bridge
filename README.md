@@ -13,7 +13,5 @@ Em vez de criar uma classe para cada combinação possível, usamos o padrão Br
 - A abstração: `ControleRemoto`
 - A implementação: `Dispositivo`
 
----
 
-## 💡 Estrutura do Projeto
 
